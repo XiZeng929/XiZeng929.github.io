@@ -1,3 +1,5 @@
+## Questions
+
 1. What do you think being a data scientist is about?
   The data scientist is about retrieve the data, do the necessary cleasing and manipulation, then do the reasonable analysis and report the results.
 2. What do you see as the major duties and/or knowledge areas?
