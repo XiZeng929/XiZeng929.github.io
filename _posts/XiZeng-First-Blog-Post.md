@@ -1,6 +1,6 @@
 ## Questions
 
-![picture]("https://github.com/XiZeng929/XiZeng929.github.io/blob/main/picture.jpg")
+![picture]("github.com/XiZeng929/XiZeng929.github.io/blob/main/picture.jpg")
 
 1. What do you think being a data scientist is about?  
   The data scientist is about retrieve the data, do the necessary cleasing and manipulation, then do the reasonable analysis and report the results.  
