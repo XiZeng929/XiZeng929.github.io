@@ -4,4 +4,4 @@
 + I learned to define default variables in generic function, which is super helpful.
 + Since I started from scratch in R marndown directly. It cost me a lot of time to run code and debug. To write my code in R script then organize my R markdown would definitely save me a lot of time on this.
 
-[Here is the link to my Project 1]()
+[Here is the link to my Project 1](https://github.com/XiZeng929/XiZeng929.github.io/blob/main/Project1_XiZeng.html)
