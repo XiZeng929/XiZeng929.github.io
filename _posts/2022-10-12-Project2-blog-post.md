@@ -10,5 +10,5 @@
 
 [Here is the link to my Project 2](https://mjiwtan.github.io/ST558Project2/)  
 
-[Here is the link to my renderer blog post](https://xizeng929.github.io/)
+[Here is the link to my rendered blog post](https://xizeng929.github.io/)
 
